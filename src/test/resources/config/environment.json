@@ -1,0 +1,7 @@
+{
+  "env": "qa",
+  "qa": {
+    "browser": "chrome",
+    "url": "https://www.jobs.nhs.uk/candidate/search"
+  }
+}
