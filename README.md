@@ -57,9 +57,11 @@ Purpose of eatch folder,file and coding technique used explained
 
 \Balakrishnan-Kannapiran-NHSBSA\TestRunPassreport.PNG
     
-Note:-Code reusability, page object model been implemented
-	WebDriverWait been used, so the releavnt action on the webelement will wait until ensure element load.
-	Extent reprot been used
+Note:-
+    1) Code reusability, page object model been implemented
+	2) WebDriverWait been used, so the releavnt action on the webelement will wait until ensure element load.
+	3) Extent reprot been used
+	4) You can notice some warnings in the terminal window which you can ignore as it's not error
 	
 
 	Challenges faced:-
